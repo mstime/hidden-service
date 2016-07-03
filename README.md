@@ -9,8 +9,7 @@ Table of contents:
 * 2) Configuring packages
 * 3) Setting up a new user and adding permissions
 * 4) Securing VPS
-* 5) Setting up Tor
-* 6) Configuring Nginx
+* 5) Setting up Tor and configuring Nginx
 
 
 * 1) Setting up your VPS
